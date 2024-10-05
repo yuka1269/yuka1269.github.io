@@ -473,9 +473,13 @@ margin-right: 35px;
 
 }
 
-/* span {
+.introduction  span{
     background: linear-gradient(transparent 50%, #FDD17B 50%);
-} */
+}
+.about_contents span {
+    background: linear-gradient(transparent 50%, #FDD17B 50%);
+} 
+
 
 
 .about_num{
